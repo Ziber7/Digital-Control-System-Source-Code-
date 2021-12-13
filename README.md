@@ -9,7 +9,13 @@ Students of Universitas Negeri Yogyakarta
 - 19537141025 Muhammad Nurwidya Ardiansyah
 - 20537144004 Nur Alif Ilyasa
 
-With the colaboration with :
+Guided by : 
+- Indra Hidayatulloh, S.Kom., M.T.   (Universitas Negeri Yogyakarta)
+- Isna Alfi Bustoni, S. T., M. Eng.  (Universitas Gadjah Mada)
+
+With the colaboration of :
 - PT.Stechoq Robotika Indonesia
 - Universitas Negeri Yogyakarta
 - Fakultas MIPA Universitas Gadjah Mada
+
+This project is an academic research held by Faculty of Mathematics and Natural Sciences Universitas Gadjah Mada and funded by Kedaireka (Direktorat Jenderal Pendidikan Tinggi Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi).
